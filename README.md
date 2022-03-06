@@ -4,8 +4,8 @@
 
 Install the dependencies first:
 1. <pre>npm install cypress --save-dev</pre>
-2. Install this repo as folder in to the directory: <pre>cypress/integration/</pre>
-3. Add <pre>{ "chromeWebSecurity": false }</pre> to cypress.json to handle cross-origin
+2. Install this repo as folder in to the directory: <code>cypress/integration/</code>
+3. Add <code>{ "chromeWebSecurity": false }</code> to cypress.json to handle cross-origin
 
 ## How to run
 
