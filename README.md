@@ -16,4 +16,4 @@ Install the dependencies first:
 2. Click on any js file from the specs folder
 
 ## Example
-![274333252_492995489126813_6483949635160279746_n](https://user-images.githubusercontent.com/58964916/156943763-409d8191-8634-415c-ad6f-3d9fefac9246.gif)
+![1](https://user-images.githubusercontent.com/58964916/156947828-a6defb6a-39e6-40ce-804c-03009110e8dc.gif)
