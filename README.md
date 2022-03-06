@@ -7,8 +7,8 @@ An automation suite to test my portfolio site: https://sakibur-karim.github.io/P
 Install the dependencies first:
 1. <pre>npm install cypress --save-dev</pre>
 2. <pre>./node_modules/.bin/cypress open</pre>
-3. Install this repo as folder in to the directory: <code>cypress/integration/</code>
-4. Add <code>{ "chromeWebSecurity": false }</code> to cypress.json to handle cross-origin
+3. Clone this repo inside this directory: <code>cypress/integration/</code>
+4. Add <code>{ "chromeWebSecurity": false }</code> to cypress.json which is at the root directory
 
 ## How to run
 
