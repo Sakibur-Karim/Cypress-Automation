@@ -2,9 +2,9 @@
 
 ## How to run
 
-For instructions on how to run
+For instructions on how to run:
 
-<pre>./node_modules/.bin/cypress open</pre>
+<pre>Go to ./node_modules/.bin/cypress then open</pre>
 
 <pre>Click on any js file from the specs folder</pre>
 
