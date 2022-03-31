@@ -1,4 +1,4 @@
-# Cypress_Automation
+# Cypress-Automation
 
 An automation suite to test my portfolio site: https://sakibur-karim.github.io/Personal-Portfolio/
 
